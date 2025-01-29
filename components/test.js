@@ -140,9 +140,9 @@ const BookingPage = () => {
     </section>
 
       {/* Services Section */}
-      <section className="py-16 bg-gradient-to-r from-green-500 to-green-800 text-white">
+      <section className="py-16 bg-gradient-to-r from-green-50 to-green-80 text-white">
         <div className="container mx-auto text-center">
-          <h2 className="text-4xl font-bold mb-8">Our Services & Pricing</h2>
+          <h2 className="text-4xl text-green-900 font-bold mb-8">Our Services & Pricing</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {[
               {
