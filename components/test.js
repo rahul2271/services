@@ -133,7 +133,7 @@ const BookingPage = () => {
         <h1 className="text-5xl md:text-7xl font-bold text-gray-800 mb-4">
           Your Path to Healing Starts Here
         </h1>
-        <p className="text-lg md:text-2xl">
+        <p className="text-lg text-gray-600 md:text-2xl">
           Personalized Homeopathy Consultations with Dr. Jyotika Kapoor
         </p>
       </div>
