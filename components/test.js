@@ -117,7 +117,7 @@ const BookingPage = () => {
       {/* Blurred Background Image */}
       <div className="absolute inset-0">
         <Image
-          src="./homo.jpg" // Replace with the path to your image
+          src="/homo.jpg" // Replace with the path to your image
           alt="Background"
           layout="fill"
           objectFit="cover"
