@@ -83,7 +83,7 @@ const ProductPage = () => {
   };
 
   return (
-    <div className="bg-gradient-to-t from-green-200 to-white py-12 px-6 md:px-12">
+    <div className="bg-gradient-to-t from-[#c7dd7c] to-white py-12 px-6 md:px-12">
       <motion.h1
         initial={{ opacity: 0, y: -50 }}
         animate={{ opacity: 1, y: 0 }}
