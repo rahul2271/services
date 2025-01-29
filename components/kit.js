@@ -96,7 +96,7 @@ const ProductPage = () => {
       <div className="max-w-5xl mx-auto bg-white rounded-lg shadow-xl p-8">
         <div className="flex flex-col md:flex-row items-center">
           <img
-            src="/images/product-main.jpg"
+            src="./as.jpg"
             alt="Homoeopathy Medicine Set"
             className="w-full md:w-1/2 h-auto object-cover rounded-lg mb-6 md:mb-0"
           />
