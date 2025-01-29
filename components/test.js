@@ -69,7 +69,7 @@ const BookingPage = () => {
         const razorpayData = await razorpayResult.json();
 
         const options = {
-          key: "rzp_live_Y2R2bUj5Utg1vD",
+          key: "rzp_live_QginVE64NUmu8B",
           amount: razorpayData.amount,
           currency: "INR",
           name: "Dr. Jyotika Kapoor",
