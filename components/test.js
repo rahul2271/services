@@ -130,7 +130,7 @@ const BookingPage = () => {
 
       {/* Content */}
       <div className="relative z-10 text-center">
-        <h1 className="text-5xl md:text-7xl font-bold text-yellow-400 mb-4">
+        <h1 className="text-5xl md:text-7xl font-bold text-gray-800 mb-4">
           Your Path to Healing Starts Here
         </h1>
         <p className="text-lg md:text-2xl">
