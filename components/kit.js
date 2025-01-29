@@ -88,7 +88,7 @@ const ProductPage = () => {
         initial={{ opacity: 0, y: -50 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.8 }}
-        className="text-4xl font-semibold text-center text-white mb-12 drop-shadow-lg"
+        className="text-4xl font-semibold text-center text-gray-900 mb-12 drop-shadow-lg"
       >
         Homoeopathy Medicine Set
       </motion.h1>
