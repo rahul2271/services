@@ -122,7 +122,7 @@ const BookingPage = () => {
           layout="fill"
           objectFit="fill"
           priority // Loads the image as a priority for the hero section
-          className="blur-md" // Tailwind's blur utility
+           // Tailwind's blur utility
         />
        
       </div>
