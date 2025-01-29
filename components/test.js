@@ -113,7 +113,7 @@ const BookingPage = () => {
   return (
     <div className="bg-gray-100">
       {/* Hero Section */}
-    <section className="relative bg-cover bg-center h-screen flex items-center justify-center text-white">
+    <section className="relative bg-cover bg-center  flex items-center justify-center text-white">
       {/* Blurred Background Image */}
       <div className="absolute inset-0">
         <Image
