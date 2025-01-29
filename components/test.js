@@ -266,7 +266,7 @@ const BookingPage = () => {
       </section>
 
       {/* FAQ Section */}
-      <section className="py-16 bg-gray-50">
+      <section className="py-16 bg-white">
         <div className="container mx-auto max-w-3xl">
           <h2 className="text-4xl font-bold text-center text-gray-800 mb-8">
             Frequently Asked Questions
