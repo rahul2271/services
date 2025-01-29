@@ -2,8 +2,8 @@ import Razorpay from 'razorpay';
 
 // Initialize Razorpay with your key
 const razorpay = new Razorpay({
-  key_id: 'rzp_live_Y2R2bUj5Utg1vD',  // Public Razorpay key
-  key_secret: 'yJFejYBzt41eZd1AY5PfggT6',  // Private Razorpay key (do not expose this to the frontend)
+  key_id: 'rzp_live_QginVE64NUmu8B',  // Public Razorpay key
+  key_secret: 'OTEpD9F4ojcVztosVTiJNaN4',  // Private Razorpay key (do not expose this to the frontend)
 });
 
 export async function POST(req) {
