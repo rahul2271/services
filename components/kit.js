@@ -90,20 +90,20 @@ const ProductPage = () => {
         transition={{ duration: 0.8 }}
         className="text-4xl font-semibold text-center text-white mb-12 drop-shadow-lg"
       >
-        Ayurvedic Medicine Set
+        Homoeopathy Medicine Set
       </motion.h1>
 
       <div className="max-w-5xl mx-auto bg-white rounded-lg shadow-xl p-8">
         <div className="flex flex-col md:flex-row items-center">
           <img
             src="/images/product-main.jpg"
-            alt="Ayurvedic Medicine Set"
+            alt="Homoeopathy Medicine Set"
             className="w-full md:w-1/2 h-auto object-cover rounded-lg mb-6 md:mb-0"
           />
           <div className="md:ml-8">
-            <h2 className="text-3xl font-bold text-gray-800 mb-4">Premium Ayurvedic Medicine</h2>
+            <h2 className="text-3xl font-bold text-gray-800 mb-4">Premium Homoeopathic Medicine</h2>
             <p className="text-gray-600 mb-6">
-              Our Ayurvedic Medicine Set combines the finest natural ingredients to help you lead a healthier life. Choose your preferred variant below.
+              Our Homoeopathy Medicine Set combines the finest natural ingredients to help you lead a healthier life. Choose your preferred variant below.
             </p>
 
             <div className="flex space-x-4">
@@ -213,7 +213,7 @@ const ProductPage = () => {
           <div>
             <h4 className="text-xl text-yellow-200 font-semibold">Premium Ingredients</h4>
             <p className="text-white">
-              Our medicines are made using authentic Ayurvedic ingredients.
+              Our medicines are made using authentic Homoeopathy ingredients.
             </p>
           </div>
           <div>
