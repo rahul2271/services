@@ -140,7 +140,7 @@ const BookingPage = () => {
     </section>
 
       {/* Services Section */}
-      <section className="py-16 bg-gradient-to-b from-green-200 to-green-80 text-white">
+      <section className="py-16 bg-gradient-to-b from-green-200 to-white text-white">
         <div className="container mx-auto text-center">
           <h2 className="text-4xl text-green-900 font-bold mb-8">Our Services & Pricing</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -242,7 +242,7 @@ const BookingPage = () => {
             </div>
             <button
               type="submit"
-              className={`w-full py-3 text-lg font-semibold text-white bg-purple-600 rounded-lg hover:bg-purple-700 transition ${
+              className={`w-full py-3 text-lg font-semibold text-white bg-green-700 rounded-lg hover:bg-green-700 transition ${
                 loading ? "opacity-50 cursor-not-allowed" : ""
               }`}
               disabled={loading}
