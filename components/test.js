@@ -120,7 +120,7 @@ const BookingPage = () => {
           src="/mint-leaf.jpg" // Replace with the path to your image
           alt="Background"
           layout="fill"
-          objectFit="fill"
+          objectFit="cover"
   className="opacity-50"
           priority // Loads the image as a priority for the hero section
            // Tailwind's blur utility
