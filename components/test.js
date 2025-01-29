@@ -113,7 +113,7 @@ const BookingPage = () => {
     <div className="bg-gray-100">
       {/* Hero Section */}
       <section className="relative bg-cover bg-center h-screen flex items-center justify-center text-white" style={{ backgroundImage: "url('https://via.placeholder.com/1920x1080')" }}>
-        <div className="absolute inset-0 bg-black bg-opacity-50"></div>
+        <div className="absolute inset-0 bg-gradient-to-b from-green-500 to-green-800 "></div>
         <div className="relative z-10 text-center">
           <h1 className="text-5xl md:text-7xl font-bold text-yellow-400 mb-4">
             Your Path to Healing Starts Here
