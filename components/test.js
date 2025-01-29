@@ -121,7 +121,7 @@ const BookingPage = () => {
           alt="Background"
           layout="fill"
           objectFit="cover"
-  className="opacity-50"
+  className="opacity-50 blur-lg"
           priority // Loads the image as a priority for the hero section
            // Tailwind's blur utility
         />
