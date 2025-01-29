@@ -143,7 +143,7 @@ const BookingPage = () => {
                   "Personalized consultation with Dr. Jyotika Kapoor. Get a comprehensive treatment plan based on your specific health needs.",
               },
               {
-                title: "Follow-up Session",
+                title: "Monthly Medicinal Charges",
                 price: "₹1200",
                 description:
                   "Follow-up session for patients undergoing treatment. Track your progress and make adjustments as needed.",
@@ -222,7 +222,7 @@ const BookingPage = () => {
               >
                 <option value="curabilityTest">Curability Test - ₹200</option>
                 <option value="consultation">Consultation - ₹1000</option>
-                <option value="followUp">Follow-up Session - ₹1200</option>
+                <option value="followUp">Monthly Medicinal Charges - ₹1200</option>
               </select>
             </div>
             <button
