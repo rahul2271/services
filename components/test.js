@@ -120,7 +120,7 @@ const BookingPage = () => {
           src="/homo.jpg" // Replace with the path to your image
           alt="Background"
           layout="fill"
-          objectFit="cover"
+          objectFit="fill"
           priority // Loads the image as a priority for the hero section
           className="blur-md" // Tailwind's blur utility
         />
