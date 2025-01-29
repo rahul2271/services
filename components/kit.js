@@ -45,7 +45,7 @@ const ProductPage = () => {
 
   const initiatePayment = () => {
     const options = {
-      key: "rzp_live_Y2R2bUj5Utg1vD",
+      key: "rzp_live_QginVE64NUmu8B",
       amount: formData.price * 100,
       currency: "INR",
       name: "Your Store",
