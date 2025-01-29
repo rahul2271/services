@@ -124,7 +124,7 @@ const BookingPage = () => {
           priority // Loads the image as a priority for the hero section
           className="blur-md" // Tailwind's blur utility
         />
-        <div className="absolute inset-0 bg-gradient-to-b from-green-500 to-green-800 opacity-75"></div>
+        // <div className="absolute inset-0 bg-gradient-to-b from-green-500 to-green-800 opacity-75"></div>
       </div>
 
       {/* Content */}
