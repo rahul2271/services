@@ -12,7 +12,7 @@ const ProductPage = () => {
     address: "",
     product: "",
     variant: "25 Medicines Set",
-    price: 2000,
+    price: 2200,
   });
 
   const [selectedVariant, setSelectedVariant] = useState("25 Medicines Set");
@@ -30,7 +30,7 @@ const ProductPage = () => {
   };
 
   const handleVariantChange = (variant) => {
-    const price = variant === "25 Medicines Set" ? 2000 : 3000;
+    const price = variant === "25 Medicines Set" ? 2200 : 3200;
     setSelectedVariant(variant);
     setFormData({ ...formData, variant, price });
   };
@@ -108,8 +108,8 @@ const ProductPage = () => {
 
             <div className="flex space-x-4">
               {[
-                { name: "25 Medicines Set", price: 2000 },
-                { name: "45 Medicines Set", price: 3000 },
+                { name: "25 Medicines Set", price: 2200 },
+                { name: "45 Medicines Set", price: 3200 },
               ].map((variant, index) => (
                 <button
                   key={index}
