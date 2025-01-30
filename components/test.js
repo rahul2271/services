@@ -54,10 +54,10 @@ const BookingPage = () => {
         body: JSON.stringify({
           amount:
             selectedService === "curabilityTest"
-              ? 200
+              ? 1
               : selectedService === "consultation"
-              ? 1000
-              : 1200,
+              ? 2
+              : 3,
         }),
       });
 
