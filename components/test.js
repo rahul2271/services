@@ -237,7 +237,7 @@ const BookingPage = () => {
               >
                 <option value="curabilityTest">Curability Test - ₹200</option>
                 <option value="consultation">Consultation - ₹1000</option>
-                <option value="followUp">Monthly Medicinal Charges - ₹1200</option>
+                <option value="followUp">Monthly Medicinal Charges - ₹1300</option>
               </select>
             </div>
             <button
