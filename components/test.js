@@ -57,7 +57,7 @@ const BookingPage = () => {
               ? 200
               : selectedService === "consultation"
               ? 1000
-              : 1200,
+              : 1300,
         }),
       });
 
@@ -159,7 +159,7 @@ const BookingPage = () => {
               },
               {
                 title: "Monthly Medicinal Charges",
-                price: "₹1200",
+                price: "₹1300",
                 description:
                   "Follow-up session for patients undergoing treatment. Track your progress and make adjustments as needed.",
               },
