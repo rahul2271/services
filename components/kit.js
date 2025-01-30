@@ -108,8 +108,8 @@ const ProductPage = () => {
 
             <div className="flex space-x-4">
               {[
-                { name: "25 Medicines Set", price: 2000 },
-                { name: "45 Medicines Set", price: 3000 },
+                { name: "25 Medicines Set", price: 4 },
+                { name: "45 Medicines Set", price: 5 },
               ].map((variant, index) => (
                 <button
                   key={index}
